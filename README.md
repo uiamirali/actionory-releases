@@ -39,37 +39,3 @@
 **Backend / Services:**
 * REST API (Node.js/Express)
 * MongoDB (Database)
-
-## 🚀 Getting Started
-
-### Prerequisites
-* Node.js (v18 or higher)
-* npm or yarn
-
-### Installation
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/uiamirali/actionory-source.git](https://github.com/uiamirali/actionory-source.git)
-    cd actionory
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-3.  **Setup Environment Variables:**
-    Create a `.env` file in the root directory:
-    ```env
-    VITE_API_URL=http://localhost:5000/api
-    VITE_GOOGLE_CLIENT_ID=your_google_client_id
-    ```
-
-### Running in Development Mode
-
-You need two terminals to run the Desktop version:
-
-**Terminal 1 (React Server):**
-```bash
-npm run devv
