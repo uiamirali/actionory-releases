@@ -1,7 +1,5 @@
 # ⚡ Actionory - The Ultimate Productivity Workspace
 
-![Actionory Banner](https://via.placeholder.com/1200x400?text=Actionory+Dashboard+Preview)
-
 > **Unlock unlimited potential for your productivity.** > Actionory is a modern, cross-platform productivity application designed to combine Task Management, Time Blocking, and Habit Tracking into a single, beautiful interface.
 
 ![Version](https://img.shields.io/badge/version-1.0.4-blue.svg)
